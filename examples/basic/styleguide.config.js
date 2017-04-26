@@ -4,6 +4,7 @@ module.exports = {
 	defaultExample: true,
 	theme: {
 		base: 'pink',
+		font: 'Papyrus',
 	},
 	webpackConfig: {
 		module: {
